@@ -88,11 +88,19 @@
 	%Guilherme
 	\frame{\frametitle {Práticas da Modelagem Ágil - Suplementares}
 	    \begin{itemize}
-	        \item Aplique padrões de modelagem;
-	        \item Tenha cuidado ao aplicar padrões;
-	        \item Descarte modelos temporários;
-	        \item Formalize os modelos de contrato;
-	        \item Atualize somente quando for necessário.
+	        \item Participação ativa dos envolvidos;
+	        \item Não modele sozinho;
+	        \item Aplique os artefatos corretamente;
+	        \item Itere para outro artefato;
+	        \item Prove a modelagem com código;
+	        \item Use ferramentas simples;
+	        \item Modele utilizando incrementos pequenos;
+	        \item Armazene as informações em apenas um lugar;
+	        \item Propriedade coletiva;
+	        \item Trabalhe com vários modelos em paralelo;
+	        \item Crie conteúdo simples;
+	        \item Descreva modelos simplistas;
+	        \item Exponha os modelos publicamente.
 	    \end{itemize}
 	}	
 	
