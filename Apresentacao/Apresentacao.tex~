@@ -19,21 +19,26 @@
 	%victor
 	\frame{\frametitle {Introdução}
 	    \begin{itemize}
-	        \item ...
+	        \item Modelar e documentar \textit{software};
+	        \item Coleção de valores, princípios e práticas;
+	        \item Desenvolver os processos com confiança;
+	        \item É combinado com outras técnicas (Scrum, XP, etc...)
 	    \end{itemize}
 	}
 	%Guilherme
-	\frame{\frametitle {Agile Model Driven Development (AMDD)}
+	\frame{\frametitle {Desenvolvimento Dirigido ao Modelo Ágil}
 	    \begin{itemize}
-	        \item Model Driven Development (MDD);
-	        \item Agile Model Driven Development (AMDD).
+	        \item Desenvolvimento Dirigido a Modelos;
+	        \item Desenvolvimento Dirigido ao Modelo Ágil.
 	    \end{itemize}
 	}
 	%victor
 	\frame{\frametitle {Melhores práticas da Modelagem Ágil}
-	    \begin{itemize}
-	        \item ...
-	    \end{itemize}
+	    \begin{enumerate}
+	        \item Outubro de 2000 começou a definição dos valores, princípios e práticas.
+	        \item Definição muito específica dos passos, difícil de entender;
+	        \item Em 2003 - Agile Model Driven Development (AMDD) (práticas).
+	    \end{enumerate}
 	}
 	%Guilherme
 	\frame{\frametitle {Valores da Modelagem Ágil}
@@ -53,61 +58,160 @@
 	}
 	
 	%victor
+	%
+	%
+	%
+	%
+	%
+	%portoimagem.wordpress.com
+	%
+	%
 	\frame{\frametitle {Princípios da Modelagem Ágil}
 	    \begin{itemize}
-	        \item ...
+	        \item Modelagem Ágil possuí 11 princípios principais;
 	    \end{itemize}
 	}
+	%victor
+	\frame{\frametitle {Princípios da Modelagem Ágil}
+	\begin{figure}
+		\caption{Modele com um propósito}
+	        \includegraphics[width = 7cm,keepaspectratio]{img/alvo}
+	    \caption*{fonte: coracoesabrasados.blogspot.com}
+	    \end{figure}
+	}
+	%victor
+	\frame{\frametitle {Princípios da Modelagem Ágil}
+	\begin{figure}
+		\caption{Maximizar os investimentos dos Stakeholder}
+	        \includegraphics[width = 7cm,keepaspectratio]{img/invetimento}
+	    \caption*{fonte: blogdaprata-pb.blogspot.com}
+	    \end{figure}
+	}
+	%victor
+	\frame{\frametitle {Princípios da Modelagem Ágil}
+	\begin{figure}
+		\caption{Viajar leve}
+	        \includegraphics[width = 7cm,keepaspectratio]{img/viajar}
+	    \caption*{fonte: www.dailytech.com}
+	    \end{figure}
+	}
+	%victor
+	\frame{\frametitle {Princípios da Modelagem Ágil}
+	\begin{figure}
+		\caption{Multiplos modelos}
+	        \includegraphics[width = 7cm,keepaspectratio]{img/modelos}
+	    \caption*{fonte: www.wikihow.com}
+	    \end{figure}
+	}
+	%victor
+	\frame{\frametitle {Princípios da Modelagem Ágil}
+	\begin{figure}
+		\caption{Feedback rápido}
+	        \includegraphics[width = 7cm,keepaspectratio]{img/feedback}
+	    \caption*{fonte: beatriziolanda.com}
+	    \end{figure}
+	}
+	%victor
+	\frame{\frametitle {Princípios da Modelagem Ágil}
+	\begin{figure}
+		\caption{Ser simples}
+	        \includegraphics[width = 7cm,keepaspectratio]{img/kiss}
+	    \caption*{fonte: reginagiannetti.wordpress.com}
+	    \end{figure}
+	}
+	%victor
+	\frame{\frametitle {Princípios da Modelagem Ágil}
+	\begin{figure}
+		\caption{Aceite Mudanças}
+	        \includegraphics[width = 7cm,keepaspectratio]{img/mudanca}
+	    \caption*{fonte: suzyqscraps.com}
+	    \end{figure}
+	}
+	%victor
+	\frame{\frametitle {Princípios da Modelagem Ágil}
+	\begin{figure}
+		\caption{Mudança incremental}
+	        \includegraphics[width = 7cm,keepaspectratio]{img/incremental}
+	    \caption*{fonte: pitacoazul.blogspot.com}
+	    \end{figure}
+	}
+	%victor
+	\frame{\frametitle {Princípios da Modelagem Ágil}
+	\begin{figure}
+		\caption{Trabalho de qualidade}
+	        \includegraphics[width = 7cm,keepaspectratio]{img/iss}
+	    \caption*{fonte: portoimagem.wordpress.com}
+	    \end{figure}
+	}
+	%victor
+	\frame{\frametitle {Princípios da Modelagem Ágil}
+	\begin{figure}
+		\caption{Software funcional é o objetivo primário}
+	        \includegraphics[width = 7cm,keepaspectratio]{img/software}
+	    \caption*{fonte: www.profissionaisti.com.br}
+	    \end{figure}
+	}
+	%victor
+	\frame{\frametitle {Princípios da Modelagem Ágil}
+	\begin{figure}
+		\caption{Outros recursos é o objetivo secundário}
+	        \includegraphics[width = 7cm,keepaspectratio]{img/recur}
+	    \caption*{fonte: forum.imasters.com.br}
+	    \end{figure}
+	}
+	
 	%Guilherme
 	\frame{\frametitle {Práticas da Modelagem Ágil}
 	    \begin{itemize}
-	        \item Principais:
-	        \item Suplementares:
+	        \item 13 - Principais:
+	        \item 5 - Suplementares:
 	    \end{itemize}
 	}
 
 	%Guilherme
 	\frame{\frametitle {Práticas da Modelagem Ágil - Principais}
-	    \begin{itemize}
-	        \item Participação ativa dos envolvidos;
-	        \item Não modele sozinho;
-	        \item Aplique os artefatos corretamente;
-	        \item Itere para outro artefato;
-	        \item Prove a modelagem com código;
-	        \item Use ferramentas simples;
-	        \item Modele utilizando incrementos pequenos;
-	        \item Armazene as informações em apenas um lugar;
-	        \item Propriedade coletiva;
-	        \item Trabalhe com vários modelos em paralelo;
-	        \item Crie conteúdo simples;
-	        \item Descreva modelos simplistas;
-	        \item Exponha os modelos publicamente.
-	    \end{itemize}
+	    \begin{enumerate}
+	        \item Participação ativa dos envolvidos; \pause
+	        \item Não modele sozinho; \pause
+	        \item Aplique os artefatos corretamente; \pause
+	        \item Itere para outro artefato; \pause
+	        \item Prove a modelagem com código; \pause
+	        \item Use ferramentas simples; \pause
+	        \item Modele utilizando incrementos pequenos; \pause
+	        \item Armazene as informações em apenas um lugar; \pause
+	        \item Propriedade coletiva; \pause
+	        \item Trabalhe com vários modelos em paralelo; \pause
+	        \item Crie conteúdo simples; \pause
+	        \item Descrição simples do modelo; \pause
+	        \item Exponha os modelos publicamente. \pause
+	    \end{enumerate}
 	}
 	
 	%Guilherme
 	\frame{\frametitle {Práticas da Modelagem Ágil - Suplementares}
-	    \begin{itemize}
-	        \item Participação ativa dos envolvidos;
-	        \item Não modele sozinho;
-	        \item Aplique os artefatos corretamente;
-	        \item Itere para outro artefato;
-	        \item Prove a modelagem com código;
-	        \item Use ferramentas simples;
-	        \item Modele utilizando incrementos pequenos;
-	        \item Armazene as informações em apenas um lugar;
-	        \item Propriedade coletiva;
-	        \item Trabalhe com vários modelos em paralelo;
-	        \item Crie conteúdo simples;
-	        \item Descreva modelos simplistas;
-	        \item Exponha os modelos publicamente.
-	    \end{itemize}
+	    \begin{enumerate}
+	        \item Aplique padrões de modelagem; \pause
+	        \item Tenha cuidado ao aplicar padrões; \pause
+	        \item Descarte modelos temporários; \pause
+	        \item Formalize os modelos de contrato; \pause
+	        \item Atualize somente quando for necessário. \pause
+	    \end{enumerate}
 	}	
+	
+	% Eu ou Vc
+	\frame{\frametitle {Críticas à Modelagem Ágil}
+	    \begin{itemize}
+	        \item Somente trabalhar com desenvolvedores de nível sênior;
+	        \item Incorpora de forma insuficiente o projeto de software;
+	        \item Requer a adoção de muita mudança cultural;
+	        \item Poder levar a maiores dificuldades nas negociações contratuais.
+	    \end{itemize}
+	}
 	
 	%victor & Guilherme
 	\frame{\frametitle {Conclusão}
 	    \begin{itemize}
-	        \item ...
+	        \item Quando utilizar e quando não utilizar a Modelagem Ágil?
 	    \end{itemize}
 	}
 \end{document}
