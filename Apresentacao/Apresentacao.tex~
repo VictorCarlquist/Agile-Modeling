@@ -47,7 +47,7 @@
                 \begin{enumerate}
                     \item Comunicação - Modelos promovem a comunicação;
                     \item Simplicidade - É mais fácil entender diagramas do que linhas de códigos;
-                    \item Feedback - Comunicar ideias através de diagramas gera feedback é mais rápido;
+                    \item Feedback - Comunicar ideias através de diagramas gera feedback mais rápido;
                     \item Coragem - Para tomar importantes decisões e mudar a direção caso alguma decisão tomada se mostre inadequada.
                 \end{enumerate}
             \item Humildade/Respeito - Os melhores desenvolvedores sabem que não sabem tudo.
@@ -182,8 +182,8 @@
 	        \item Propriedade coletiva; \pause
 	        \item Trabalhe com vários modelos em paralelo; \pause
 	        \item Crie conteúdo simples; \pause
-	        \item Descrição simples do modelo; \pause
-	        \item Exponha os modelos publicamente. \pause
+	        \item Utilize apenas modelos descritivos; \pause
+	        \item Exponha os modelos publicamente.
 	    \end{enumerate}
 	}
 	
@@ -194,11 +194,11 @@
 	        \item Tenha cuidado ao aplicar padrões; \pause
 	        \item Descarte modelos temporários; \pause
 	        \item Formalize os modelos de contrato; \pause
-	        \item Atualize somente quando for necessário. \pause
+	        \item Atualize somente quando for necessário.
 	    \end{enumerate}
 	}	
 	
-	% Eu ou Vc
+	% Guilherme 
 	\frame{\frametitle {Críticas à Modelagem Ágil}
 	    \begin{itemize}
 	        \item Somente trabalhar com desenvolvedores de nível sênior;
@@ -208,7 +208,7 @@
 	    \end{itemize}
 	}
 	
-	%victor & Guilherme
+	% Victor
 	\frame{\frametitle {Conclusão}
 	    \begin{itemize}
 	        \item Quando utilizar e quando não utilizar a Modelagem Ágil?
